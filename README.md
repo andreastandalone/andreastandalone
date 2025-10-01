@@ -1,5 +1,3 @@
-<img src="images/cover.png" alt="Stefano Bartoletti">
-
 # Hi, I'm Andrea
 
 I’m a freelance Front-End Web Developer with a strong background in UX and visual design.
